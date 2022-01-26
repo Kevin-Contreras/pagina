@@ -2,9 +2,9 @@
     margin:0;
 }
 .navbar{
-    background: rgb(254, 255, 254);
+    background: rgb(113, 160, 95);
 }
-.navbar .navtextos{
+.navbar .navtexto{
     text-align: right;
 
     
@@ -63,6 +63,7 @@ transition: all 1s ease-in-out;
 
     .navbar .navtexto{
         display: block;
+;
         text-align: left;
         margin-top: 20px;
     }
@@ -80,7 +81,6 @@ transition: all 1s ease-in-out;
         
         background: lightblue;
     }
-  
     .navbar .imgnavbar img{
         float: left;
         height: 45px;
@@ -94,7 +94,7 @@ transition: all 1s ease-in-out;
         display: block;
     }
     .texto{
-        margin-left: 8%;
+        margin-left: 10%;
     }
         .navbar .imgnavbar h1{
             float: left;

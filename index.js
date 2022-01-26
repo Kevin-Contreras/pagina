@@ -1,7 +1,6 @@
 var imagen = document.getElementById("menu");
 var texto = document.getElementById("texto");
 
-
     if(window.screen.width>930){
         texto.style.display="block"
        
@@ -17,7 +16,6 @@ function activar(event){
     if(window.screen.width<=930){
     if(contador%2==0){
         texto.style.display="none"
-        
     }else{
         texto.style.display="block"
     }
