@@ -92,6 +92,7 @@ transition: all 1s ease-in-out;
     }
     .yo2{
         display: block;
+        border-radius: 100%;
     }
     .texto{
         margin-left: 10%;
